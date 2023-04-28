@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/thalissongoncalves/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thálisson%20Gonçalves;Full-Stack%20web%20developer%20student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=3ad288Center=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Thálisson%20Gonçalves;Full-Stack%20web%20developer%20student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00FA9ACenter=true&pause=1000&size=22" /></a>
 </p>
 
 <br/>
@@ -54,12 +54,7 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <p>
-    <a href="https://github.com/thalissongoncalves/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thalissongoncalves's streak" src="https://streak-stats.demolab.com/?user=thalissongoncalves&theme=dark&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
+   [![GitHub Streak](https://streak-stats.demolab.com?user=thalissongoncalves&theme=github-dark&hide_border=true&fire=FFFFFF&border=000000&ring=79FF97&stroke=79FF97&sideNums=79FF97&dates=79FF97)](https://git.io/streak-stats)
 
   <h3>💻 GitHub Profile Stats</h3>
 
