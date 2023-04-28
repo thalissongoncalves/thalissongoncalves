@@ -54,18 +54,18 @@
 
   <h3>🔥 Streak Stats</h3>
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=thalissongoncalves&theme=github-dark&hide_border=true&fire=FFFFFF&border=000000&ring=79FF97&stroke=79FF97&sideNums=79FF97&dates=79FF97)](https://git.io/streak-stats)
+   <a href="#">[![GitHub Streak](https://streak-stats.demolab.com?user=thalissongoncalves&theme=github-dark&hide_border=true&fire=FFFFFF&border=000000&ring=79FF97&stroke=79FF97&sideNums=79FF97&dates=79FF97)](https://git.io/streak-stats)</a>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalissongoncalves&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/thalissongoncalves/github-readme-stats)
+  <a href="#">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalissongoncalves&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/thalissongoncalves/github-readme-stats)</a>
   <br/>
-  [![Thalissongoncalves GitHub stats](https://github-readme-stats.vercel.app/api?username=thalissongoncalves&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thalissongoncalves/github-readme-stats)
+  <a href="#">[![Thalissongoncalves GitHub stats](https://github-readme-stats.vercel.app/api?username=thalissongoncalves&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thalissongoncalves/github-readme-stats)</a>
   
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thalissongoncalves&bg_color=121316&color=ffffff&line=15bc6e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="#">[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thalissongoncalves&bg_color=121316&color=ffffff&line=15bc6e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
 
 </details>
