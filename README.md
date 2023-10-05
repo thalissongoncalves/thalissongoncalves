@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/thalissongoncalves/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thálisson%20Gonçalves;Full-Stack%20web%20developer%20student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00FA9ACenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Thálisson%20Gonçalves;Full-Stack%20web%20developer%20student%20at%20Trybe.;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00FA9ACenter=true&pause=1000&size=22" /></a>
 </p>
 
 <br/>
