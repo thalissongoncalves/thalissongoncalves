@@ -62,3 +62,4 @@
   <br />
   
   <a href="#">[![Thalissongoncalves GitHub stats](https://github-readme-stats.vercel.app/api?username=thalissongoncalves&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thalissongoncalves/github-readme-stats)</a>
+  <img alt="Meu avatar" src="./Design_sem_nome__45_-removebg-preview.png" />
