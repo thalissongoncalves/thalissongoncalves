@@ -65,4 +65,4 @@
 
   <br />
   
-  <a href="#">[![Thalissongoncalves GitHub stats](https://github-readme-stats.vercel.app/api?username=thalissongoncalves&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thalissongoncalves/github-readme-stats)</a>
+  <a href="#" align="center">[![Thalissongoncalves GitHub stats](https://github-readme-stats.vercel.app/api?username=thalissongoncalves&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thalissongoncalves/github-readme-stats)</a>
