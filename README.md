@@ -5,6 +5,10 @@
 
 <br/>
 
+<img alt="Meu avatar" src="./Design_sem_nome__45_-removebg-preview.png" />
+
+<br/>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
     <a href="https://www.instagram.com/thalissonzpyg" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -62,4 +66,3 @@
   <br />
   
   <a href="#">[![Thalissongoncalves GitHub stats](https://github-readme-stats.vercel.app/api?username=thalissongoncalves&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thalissongoncalves/github-readme-stats)</a>
-  <img alt="Meu avatar" src="./Design_sem_nome__45_-removebg-preview.png" />
