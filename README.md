@@ -5,7 +5,7 @@
 
 <br/>
 
-<img alt="Meu avatar" src="./Design_sem_nome__45_-removebg-preview.png" />
+<p align="center"><img alt="Meu avatar" src="./Design_sem_nome__45_-removebg-preview.png" /></p>
 
 <br/>
 
