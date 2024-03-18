@@ -23,6 +23,7 @@
     <a href="https://www.instagram.com/thalissonzpyg"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/thalissongoncalves/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
   <h2>🔎 Sobre mim</h2>
   <p>
       Olá! Sou Thálisson Gonçalves, um entusiasta de tecnologia desde a minha infância, apaixonado por resolver problemas e construir soluções inovadoras. Como um Full Stack Developer, minhas competências principais incluem Python, JavaScript, React, TypeScript, MySQL, Docker, e API REST. <br/>
