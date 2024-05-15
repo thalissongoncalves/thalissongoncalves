@@ -54,6 +54,7 @@ Se você procura um profissional dedicado, apaixonado por tecnologia, e com uma 
       <a href="#"><img alt="React Hood Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" /></a>
       <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></a>
       <a href="#"><img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /></a>
+      <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
   </p>
 
   <p>
