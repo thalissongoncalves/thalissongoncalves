@@ -25,7 +25,7 @@
 
   <h2>🔎 Sobre mim</h2>
   <p>
-      Olá! Sou Thálisson Gonçalves, um entusiasta de tecnologia desde a minha infância, apaixonado por resolver problemas e construir soluções inovadoras. Como um Full Stack Developer, minhas competências principais incluem Python, JavaScript, React, TypeScript, MySQL, Docker, e API REST. <br/>
+      Olá! Sou Thálisson Gonçalves, um entusiasta de tecnologia desde a minha infância, apaixonado por resolver problemas e construir soluções inovadoras. Como um Full Stack Developer, minhas competências principais incluem JavaScript, React, Angular, TypeScript, Python, MySQL, Docker, e API REST. <br/>
 
 Tenho uma sólida experiência profissional, com passagens pelo Grupo EROS como Analista de Dados, onde aprimorei minhas habilidades em Python, Looker Studio, Javascript, Magento, Oracle Netsuite, e ferramentas como Bitrix24. Além disso, servi no Exército Brasileiro como Soldado, o que me proporcionou valiosas competências em resolução de problemas, comunicação eficaz e trabalho em equipe. <br/>
 
