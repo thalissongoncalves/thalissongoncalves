@@ -25,17 +25,26 @@
 
   <h2>🔎 Sobre mim</h2>
   <p>
-      Olá! Sou Thálisson Gonçalves, um entusiasta de tecnologia desde a minha infância, apaixonado por resolver problemas e construir soluções inovadoras. Como um Full Stack Developer, minhas competências principais incluem JavaScript, React, Angular, TypeScript, Python, MySQL, Docker, e API REST. <br/>
+      Olá! Sou Thálisson Gonçalves, um entusiasta de tecnologia desde a minha infância, apaixonado por resolver problemas e construir soluções inovadoras. Como Desenvolvedor Full Stack, minhas principais competências incluem:
+- Desenvolvimento Front-End: JavaScript, React, Angular, TypeScript, HTML, CSS
+- Desenvolvimento Back-End: Node.js, Python, API REST
+- Banco de Dados: MySQL
+- DevOps: Docker
+- Ferramentas de Análise de Dados: Looker Studio
+- Plataformas de E-commerce: Magento, Oracle Netsuite
 
-Tenho uma sólida experiência profissional, com passagens pelo Grupo EROS como Analista de Dados, onde aprimorei minhas habilidades em Python, Looker Studio, Javascript, Magento, Oracle Netsuite, e ferramentas como Bitrix24. Além disso, servi no Exército Brasileiro como Soldado, o que me proporcionou valiosas competências em resolução de problemas, comunicação eficaz e trabalho em equipe. <br/>
+Experiência Profissional:
+- Grupo EROS: Atuei como Analista de Dados, onde aprimorei minhas habilidades em Python, Looker Studio, Javascript, Magento, Oracle Netsuite e Bitrix24. Desenvolvi soluções de análise de dados e automação de processos que melhoraram a eficiência operacional;
+- Exército Brasileiro: Servi como Soldado, onde adquiri competências essenciais em resolução de problemas, comunicação eficaz e trabalho em equipe, aplicáveis em ambientes de alta pressão.
 
-Atualmente tenho curso em Desenvolvimento Full Stack na Trybe e com faculdade em andamendo de Anáilse e Desenvolvimento de Sistemas na Estácio, assim adquirindo habilidades avançadas em programação, desenvolvimento de APIs e muito mais. <br/>
+Formação e Certificações:
+- Formação em Desenvolvimento Full Stack: Adquiri habilidades avançadas em programação e desenvolvimento de APIs.
+- Certificações: Certificações na Alura, Udemy, DIO PRO e Fundação Bradesco.
 
-Além disso, mantenho meu aprendizado com cursos na Udemy, Fundação Bradesco e na DIO PRO <br/>
+Objetivo Profissional:
+Meu objetivo é me tornar um Desenvolvedor Sênior de sucesso. Estou sempre aberto a oportunidades desafiadoras e projetos empolgantes que me permitam aplicar meu conhecimento e contribuir para o crescimento de uma equipe ou organização.
 
-Meu objetivo é me tornar um Desenvolvedor Sênior de sucesso. Estou sempre aberto a oportunidades desafiadoras e projetos empolgantes que me permitam aplicar meu conhecimento e contribuir para o crescimento de uma equipe ou organização. <br/>
-
-Se você procura um profissional dedicado, apaixonado por tecnologia, e com uma sólida base de conhecimento em desenvolvimento, entre em contato comigo! Estou pronto para enfrentar novos desafios e fazer a diferença.
+Se você procura um profissional dedicado, apaixonado por tecnologia, com uma base sólida em desenvolvimento e habilidades práticas comprovadas, entre em contato comigo! Estou pronto para enfrentar novos desafios e fazer a diferença.
   </p>
 
   <br/>
