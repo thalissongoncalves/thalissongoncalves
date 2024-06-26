@@ -21,26 +21,7 @@
 
   <h2>🔎 Sobre mim</h2>
   <p>
-      Olá! Sou Thálisson Gonçalves, um entusiasta de tecnologia desde a minha infância, apaixonado por resolver problemas e construir soluções inovadoras. Como Desenvolvedor Full Stack, minhas principais competências incluem:
-- Desenvolvimento Front-End: JavaScript, React, Angular, TypeScript, HTML, CSS
-- Desenvolvimento Back-End: Node.js, Python, API REST
-- Banco de Dados: MySQL
-- DevOps: Docker
-- Ferramentas de Análise de Dados: Looker Studio
-- Plataformas de E-commerce: Magento, Oracle Netsuite
-
-Experiência Profissional:
-- Grupo EROS: Atuei como Analista de Dados, onde aprimorei minhas habilidades em Python, Looker Studio, Javascript, Magento, Oracle Netsuite e Bitrix24. Desenvolvi soluções de análise de dados e automação de processos que melhoraram a eficiência operacional;
-- Exército Brasileiro: Servi como Soldado, onde adquiri competências essenciais em resolução de problemas, comunicação eficaz e trabalho em equipe, aplicáveis em ambientes de alta pressão.
-
-Formação e Certificações:
-- Formação em Desenvolvimento Full Stack: Adquiri habilidades avançadas em programação e desenvolvimento de APIs.
-- Certificações: Certificações na Alura, Udemy, DIO PRO e Fundação Bradesco.
-
-Objetivo Profissional:
-Meu objetivo é me tornar um Desenvolvedor Sênior de sucesso. Estou sempre aberto a oportunidades desafiadoras e projetos empolgantes que me permitam aplicar meu conhecimento e contribuir para o crescimento de uma equipe ou organização.
-
-Se você procura um profissional dedicado, apaixonado por tecnologia, com uma base sólida em desenvolvimento e habilidades práticas comprovadas, entre em contato comigo! Estou pronto para enfrentar novos desafios e fazer a diferença.
+      Estou cursando Análise e Desenvolvimento de Sistemas pela Estácio e atuando como Desenvolvedor Full Stack no Grupo EROS. Durante a pandemia, tive o privilégio de conhecer programação e apaixonei, o que me levou entrar na escola Trybe para estudar e dedicar todo o meu tempo no desenvolvimento web. Atualmente, estou colhendo frutos da minha dedicação, todos os dias dedicados ao estudo na área por plataformas de cursos e me preparando cada vez mais para o mercado de trabalho. Adoro assistir animes, praticar esportes, jogar e visitar familia e amigos.
   </p>
 
   <br/>
