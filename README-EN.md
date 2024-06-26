@@ -7,10 +7,6 @@
   
 </div>
 
-<p align="center"><img alt="Meu avatar" src="./Design_sem_nome__45_-removebg-preview.png" /></p>
-
-<br/>
-
 <p align="center">
   <a href="https://github.com/thalissongoncalves/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Thálisson%20Gonçalves;Full-Stack%20Web%20Developer%20;thalissongdev@gmail.com;Always%20learning%20new%20things&font=Fira%20Code;&center=true&width=440&height=45&color=00FA9ACenter=true&pause=1000&size=22" />
@@ -21,24 +17,13 @@
 
 <p align="center">
     <a href="https://thalisson-goncalves.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
-    <a href="https://www.instagram.com/thalissonzpyg"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/thalissongoncalves/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <h2>🔎 About me</h2>
 
 <p>
-    Hello! I'm Thálisson Gonçalves, a technology enthusiast since my childhood, passionate about solving problems and building innovative solutions. As a Full Stack Developer, my core competencies include Python, JavaScript, React, TypeScript, MySQL, Docker, and REST API. <br/>
-
-  I have solid professional experience, with stints at the EROS Group as a Data Analyst, where I improved my skills in Python, Looker Studio, Javascript, Magento, Oracle Netsuite, and tools such as Bitrix24. Additionally, I served in the Brazilian Army as a Soldier, which provided me with valuable skills in problem solving, effective communication and teamwork. <br/>
-
-  I currently have a course in Full Stack Development at Trybe and an ongoing course in Analysis and Systems Development at Estácio, thus acquiring advanced skills in programming, API development and much more. <br/>
-
-  Furthermore, I maintain my learning with courses on Udemy, Fundação Bradesco and DIO PRO <br/>
-
-  My goal is to become a successful Senior Developer. I am always open to challenging opportunities and exciting projects that allow me to apply my knowledge and contribute to the growth of a team or organization. <br/>
-
-  If you are looking for a dedicated professional, passionate about technology, and with a solid knowledge base in development, contact me! I'm ready to face new challenges and make a difference.
+   I am studying Systems Analysis and Development at Estácio and working as a Full Stack Developer at Grupo EROS. During the pandemic, I had the privilege of discovering programming and I fell in love with it, which led me to enter the Trybe school to study and dedicate all my time to web development. Currently, I am reaping the fruits of my dedication, every day dedicated to studying the area through course platforms and preparing myself more and more for the job market. I love watching anime, playing sports, playing games and visiting family and friends.
 </p>
 
 <br/>
@@ -57,6 +42,7 @@
       <a href="#"><img alt="React Hood Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" /></a>
       <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></a>
       <a href="#"><img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /></a>
+      <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
   </p>
 
   <p>
