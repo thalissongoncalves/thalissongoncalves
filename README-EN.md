@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/thalissongoncalves/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thálisson%20Gonçalves;Back-End%20Developer%20;thalissongdev@gmail.com;Always%20learning%20new%20things&font=Fira%20Code;&center=true&width=440&height=45&color=00FA9ACenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Thálisson%20Gonçalves;Full-Stack%20Developer%20;thalissongdev@gmail.com;Always%20learning%20new%20things&font=Fira%20Code;&center=true&width=440&height=45&color=00FA9ACenter=true&pause=1000&size=22" />
   </a>
 </p>
 
