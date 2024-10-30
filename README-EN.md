@@ -23,7 +23,7 @@
 <h2>🔎 About me</h2>
 
 <p>
-   I am studying Systems Analysis and Development at Estácio and working as a Full Stack Developer at Grupo EROS. During the pandemic, I had the privilege of discovering programming and I fell in love with it, which led me to enter the Trybe school to study and dedicate all my time to web development. Currently, I am reaping the fruits of my dedication, every day dedicated to studying the area through course platforms and preparing myself more and more for the job market. I love watching anime, playing sports, playing games and visiting family and friends.
+   I am studying Systems Analysis and Development at FASUL and working as a Full Stack Developer at Grupo EROS. During the pandemic, I had the privilege of discovering programming and I fell in love with it, which led me to enter the Trybe school to study and dedicate all my time to web development. Currently, I am reaping the fruits of my dedication, every day dedicated to studying the area through course platforms and preparing myself more and more for the job market. I love watching anime, playing sports, playing games and visiting family and friends.
 </p>
 
 <br/>
