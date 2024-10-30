@@ -29,6 +29,11 @@
   <h2>🛠️ Habilidades</h2>
 
   <p>
+    Front-end: <br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap" /></a>
+  </p>
+
+  <p>
     Back-end: <br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,docker,mysql,npm,nextjs,nodejs,jest" /></a>
   </p>
