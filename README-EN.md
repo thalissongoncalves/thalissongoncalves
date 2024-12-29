@@ -32,12 +32,12 @@
 
   <p>
     Front-end: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" /></a>
   </p>
 
   <p>
     Back-end: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,docker,mysql,npm,nextjs,nodejs,jest" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,docker,mysql,npm,nextjs,nodejs,jest" /></a>
   </p>
 
   <p>
