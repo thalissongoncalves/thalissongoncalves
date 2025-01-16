@@ -29,13 +29,18 @@
   <h2>🛠️ Habilidades</h2>
 
   <p>
+    Linguagens de Programação: <br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py" /></a>
+  </p>
+
+  <p>
     Front-end: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" /></a>
   </p>
 
   <p>
     Back-end: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,docker,mysql,npm,nextjs,nodejs,jest" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,mysql,npm,nodejs" /></a>
   </p>
 
   <p>
