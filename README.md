@@ -21,7 +21,7 @@
 
   <h2>🔎 Sobre mim</h2>
   <p>
-      Estou cursando Análise e Desenvolvimento de Sistemas pela FASUL e atuando como Desenvolvedor Full Stack no Grupo EROS. Durante a pandemia, tive o privilégio de conhecer programação e apaixonei, o que me levou entrar na escola Trybe para estudar e dedicar todo o meu tempo no desenvolvimento web. Atualmente, estou colhendo frutos da minha dedicação, todos os dias dedicados ao estudo na área por plataformas de cursos e me preparando cada vez mais para o mercado de trabalho. Adoro assistir animes, praticar esportes, jogar e visitar familia e amigos.
+      Estou atuando como Desenvolvedor Full Stack no Grupo EROS. Durante a pandemia, tive o privilégio de conhecer programação e apaixonei, o que me levou entrar na escola Trybe para estudar e dedicar todo o meu tempo no desenvolvimento web. Atualmente, estou colhendo frutos da minha dedicação, todos os dias dedicados ao estudo na área por plataformas de cursos e me preparando cada vez mais para o mercado de trabalho. Adoro assistir animes, praticar esportes, jogar e visitar familia e amigos.
   </p>
 
   <br/>
