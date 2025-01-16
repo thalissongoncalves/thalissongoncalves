@@ -52,6 +52,5 @@
 
   <br />
   
-  <a href="#" align="center">[![Thalissongoncalves GitHub stats](https://github-readme-stats.vercel.app/api?username=thalissongoncalves&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thalissongoncalves/github-readme-stats)</a>
   <a href="#" align="center"><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissongoncalves&layout=compact&langs_count=7&theme=github_dark"/></a>
 
