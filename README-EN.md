@@ -23,7 +23,7 @@
 <h2>🔎 About me</h2>
 
 <p>
-   I am studying Systems Analysis and Development at FASUL and working as a Full Stack Developer at Grupo EROS. During the pandemic, I had the privilege of discovering programming and I fell in love with it, which led me to enter the Trybe school to study and dedicate all my time to web development. Currently, I am reaping the fruits of my dedication, every day dedicated to studying the area through course platforms and preparing myself more and more for the job market. I love watching anime, playing sports, playing games and visiting family and friends.
+   I am working as a Full Stack Developer at Grupo EROS. During the pandemic, I had the privilege of discovering programming and I fell in love with it, which led me to enter the Trybe school to study and dedicate all my time to web development. Currently, I am reaping the fruits of my dedication, every day dedicated to studying the area through course platforms and preparing myself more and more for the job market. I love watching anime, playing sports, playing games and visiting family and friends.
 </p>
 
 <br/>
@@ -31,13 +31,18 @@
 <h2>🛠️ Skills</h2>
 
   <p>
+    Programming Languages: <br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py" /></a>
+  </p>
+
+  <p>
     Front-end: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" /></a>
   </p>
 
   <p>
     Back-end: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,docker,mysql,npm,nextjs,nodejs,jest" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,mysql,npm,nodejs" /></a>
   </p>
 
   <p>
