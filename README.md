@@ -1,5 +1,6 @@
+## 👋 Olá! Eu sou o Thálisson Gonçalves.
+
 <div align="left">
-  ## 👋 Olá! Eu sou o Thálisson Gonçalves.
 
 [![Portuguese](https://flagsapi.com/BR/flat/32.png)](README.md)
 [![English](https://flagsapi.com/US/flat/32.png)](README-EN.md)
