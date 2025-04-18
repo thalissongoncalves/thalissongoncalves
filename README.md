@@ -1,4 +1,4 @@
-## Seja bem-vindo ao meu Perfil do GitHub!
+## 👋 Olá! Eu sou o Thálisson Gonçalves.
 
 <div align="right">
 
@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  Thálisson Gonçalves da Silva | 23 Anos | Desenvolvedor Full Stack Júnior
+  Iniciei meus estudos na programação em Julho/2022 | Tenho 23 Anos | Desenvolvedor Full Stack Júnior
 </p>
 
 <br/>
@@ -20,7 +20,7 @@
 
   <h2>🔎 Sobre mim</h2>
   <p>
-      Durante a pandemia, tive o privilégio de conhecer programação e me apaixonei, o que me levou a entrar na escola Trybe para estudar e dedicar todo o meu tempo no desenvolvimento web full stack. Atualmente, estou colhendo frutos da minha dedicação, todos os dias dedicados ao estudo na área por plataformas de cursos e me preparando cada vez mais para o mercado de trabalho. Adoro assistir animes, praticar esportes, jogar e visitar familia e amigos.
+      Durante a pandemia, tive o privilégio de conhecer a programação e me apaixonei pela área. Isso me levou a estudar na escola Trybe em Novembro/2022 e a dedicar todo o meu tempo ao desenvolvimento web full stack. Hoje, sigo evoluindo com cursos e projetos práticos, buscando estar cada vez mais preparado para o mercado. No tempo livre, gosto de assistir animes, praticar esportes, jogar e estar com família e amigos.
   </p>
 
   <br/>
@@ -46,3 +46,16 @@
     Tools: <br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel" /></a>
   </p>
+
+## 🚀 Projetos em Destaque
+
+- 🛠️ [Meu portfólio](https://thalisson-goncalves.vercel.app) — Projetos pessoais e experiências.
+- 🧔 [Landing Page Pedro Acerbi | Freelance](https://pedro-acerbi-psychology.vercel.app/) — Tecnologias utilizadas: HTML | CSS | Bootstrap | JavaScript.
+- 👩‍💻 [Rick and Morty - Consulta de Personagens](https://tg-rick-and-morty.vercel.app/) — Tecnologias utilizadas: HTML | CSS | TypeScript | Angular.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thalissongoncalves&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissongoncalves&layout=compact&theme=dracula" />
+</div>
