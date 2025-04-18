@@ -1,11 +1,13 @@
-## 👋 Olá! Eu sou o Thálisson Gonçalves.
+<div align="left">
+  ## 👋 Olá! Eu sou o Thálisson Gonçalves.
 
-<div align="right">
+[![Portuguese](https://flagsapi.com/BR/flat/32.png)](README.md)
+[![English](https://flagsapi.com/US/flat/32.png)](README-EN.md)
 
-  [![Portuguese](https://flagsapi.com/BR/flat/32.png)](README.md)
-  [![English](https://flagsapi.com/US/flat/32.png)](README-EN.md)
-  
 </div>
+
+
+
 
 <p align="center">
   Iniciei meus estudos na programação em Julho/2022 | Tenho 23 Anos | Desenvolvedor Full Stack Júnior
