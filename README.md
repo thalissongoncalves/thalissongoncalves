@@ -42,7 +42,7 @@
 
   <p>
     Tools: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite,git,github,githubactions,vscode,vercel" /></a>
   </p>
 
 ## 🚀 Projetos em Destaque
