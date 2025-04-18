@@ -7,9 +7,6 @@
 
 </div>
 
-
-
-
 <p align="center">
   Iniciei meus estudos na programação em Julho/2022 | Tenho 23 Anos | Desenvolvedor Full Stack Júnior
 </p>
