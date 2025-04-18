@@ -8,8 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/thalissongoncalves/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thálisson%20Gonçalves;Full-Stack%20Developer%20;thalissongdev@gmail.com;Always%20learning%20new%20things&font=Fira%20Code;&center=true&width=440&height=45&color=00FA9ACenter=true&pause=1000&size=22" /></a>
+  Thálisson Gonçalves da Silva | 23 Anos | Desenvolvedor Full Stack Júnior
 </p>
 
 <br/>
@@ -21,7 +20,7 @@
 
   <h2>🔎 Sobre mim</h2>
   <p>
-      Durante a pandemia, tive o privilégio de conhecer programação e apaixonei, o que me levou entrar na escola Trybe para estudar e dedicar todo o meu tempo no desenvolvimento web. Atualmente, estou colhendo frutos da minha dedicação, todos os dias dedicados ao estudo na área por plataformas de cursos e me preparando cada vez mais para o mercado de trabalho. Adoro assistir animes, praticar esportes, jogar e visitar familia e amigos.
+      Durante a pandemia, tive o privilégio de conhecer programação e me apaixonei, o que me levou a entrar na escola Trybe para estudar e dedicar todo o meu tempo no desenvolvimento web full stack. Atualmente, estou colhendo frutos da minha dedicação, todos os dias dedicados ao estudo na área por plataformas de cursos e me preparando cada vez mais para o mercado de trabalho. Adoro assistir animes, praticar esportes, jogar e visitar familia e amigos.
   </p>
 
   <br/>
