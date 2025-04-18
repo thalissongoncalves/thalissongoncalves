@@ -23,8 +23,6 @@
 <p>
    During the pandemic, I had the privilege of learning about programming and fell in love with the field. This led me to study at Trybe School in November 2022 and dedicate all my time to full stack web development. Today, I continue to evolve with courses and practical projects, seeking to be increasingly prepared for the market. In my free time, I enjoy watching anime, playing sports, playing games, and spending time with family and friends.
 </p>
-
-<br/>
   
 <h2>🛠️ Skills</h2>
 
@@ -47,8 +45,6 @@
     Tools: <br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel" /></a>
   </p>
-
-  <br />
   
 ## 🚀 Featured Projects
 
