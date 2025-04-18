@@ -46,7 +46,3 @@
     Tools: <br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel" /></a>
   </p>
-
-  <br />
-  
-  <a href="#" align="center"><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissongoncalves&layout=compact&langs_count=7&theme=github_dark"/></a>
