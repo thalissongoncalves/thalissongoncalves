@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile!
+## 👋 Hello! I'm Thálisson Gonçalves.
 
 <div align="right">
 
@@ -8,9 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/thalissongoncalves/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thálisson%20Gonçalves;Full-Stack%20Developer%20;thalissongdev@gmail.com;Always%20learning%20new%20things&font=Fira%20Code;&center=true&width=440&height=45&color=00FA9ACenter=true&pause=1000&size=22" />
-  </a>
+  I started my programming studies in July/2022 | I'm 23 years old | Junior Full Stack Developer
 </p>
 
 <br/>
@@ -23,7 +21,7 @@
 <h2>🔎 About me</h2>
 
 <p>
-   I am working as a Full Stack Developer at Grupo EROS. During the pandemic, I had the privilege of discovering programming and I fell in love with it, which led me to enter the Trybe school to study and dedicate all my time to web development. Currently, I am reaping the fruits of my dedication, every day dedicated to studying the area through course platforms and preparing myself more and more for the job market. I love watching anime, playing sports, playing games and visiting family and friends.
+   During the pandemic, I had the privilege of learning about programming and fell in love with the field. This led me to study at Trybe School in November 2022 and dedicate all my time to full stack web development. Today, I continue to evolve with courses and practical projects, seeking to be increasingly prepared for the market. In my free time, I enjoy watching anime, playing sports, playing games, and spending time with family and friends.
 </p>
 
 <br/>
@@ -52,5 +50,15 @@
 
   <br />
   
-  <a href="#" align="center"><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissongoncalves&layout=compact&langs_count=7&theme=github_dark"/></a>
+## 🚀 Featured Projects
 
+- 🛠️ [My Portfoly](https://thalisson-goncalves.vercel.app) — Personal projects and experiences.
+- 🧔 [Landing Page Pedro Acerbi | Freelance](https://pedro-acerbi-psychology.vercel.app/) — Technologies used: HTML | CSS | Bootstrap | JavaScript.
+- 👩‍💻 [Rick and Morty - Character consultation](https://tg-rick-and-morty.vercel.app/) — Technologies used: HTML | CSS | TypeScript | Angular.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thalissongoncalves&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissongoncalves&layout=compact&theme=dracula" />
+</div>
