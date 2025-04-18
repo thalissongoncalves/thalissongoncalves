@@ -22,8 +22,6 @@
   <p>
       Durante a pandemia, tive o privilégio de conhecer a programação e me apaixonei pela área. Isso me levou a estudar na escola Trybe em Novembro/2022 e a dedicar todo o meu tempo ao desenvolvimento web full stack. Hoje, sigo evoluindo com cursos e projetos práticos, buscando estar cada vez mais preparado para o mercado. No tempo livre, gosto de assistir animes, praticar esportes, jogar e estar com família e amigos.
   </p>
-
-  <br/>
   
   <h2>🛠️ Habilidades</h2>
 
