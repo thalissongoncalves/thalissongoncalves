@@ -30,11 +30,11 @@ Após minha saída do Exército, iniciei meus estudos de forma autodidata, busca
 
 Em julho de 2023, conquistei minha primeira oportunidade profissional como desenvolvedor, e desde então venho aprimorando minhas habilidades em tecnologias modernas, com destaque para:
 
-🧠 Fundamentos e Lógica de Programação: Shell, Git, HTML, CSS, JavaScript (ES6+), Testes Unitários
-🎨 Front-End: React, Redux, Context API, Testes com RTL, Metodologias Ágeis, Estilização Responsiva
-🛠️ Back-End: Node.js, Express, Docker, MySQL, TypeORM/ORM, JWT/Auth, POO e princípios SOLID
-📊 Ciência da Computação: Python, Estruturas de Dados, Algoritmos
-💬 Soft Skills: Comunicação, trabalho em equipe, resolução de problemas e autonomia
+🧠 Fundamentos e Lógica de Programação: Shell, Git, HTML, CSS, JavaScript (ES6+), Testes Unitários.<br/>
+🎨 Front-End: React, Redux, Context API, Testes com RTL, Metodologias Ágeis, Estilização Responsiva.<br/>
+🛠️ Back-End: Node.js, Express, Docker, MySQL, TypeORM/ORM, JWT/Auth, POO e princípios SOLID.<br/>
+📊 Ciência da Computação: Python, Estruturas de Dados, Algoritmos.<br/>
+💬 Soft Skills: Comunicação, trabalho em equipe, resolução de problemas e autonomia.<br/>
 
 Atualmente, estou em busca de novos desafios profissionais onde eu possa aplicar minhas competências em projetos inovadores e contribuir com soluções de impacto real.
 
