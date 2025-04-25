@@ -20,7 +20,25 @@
 
   <h2>🔎 Sobre mim</h2>
   <p>
-      Durante a pandemia, tive o privilégio de conhecer a programação e me apaixonei pela área. Isso me levou a estudar na escola Trybe em Novembro/2022 e a dedicar todo o meu tempo ao desenvolvimento web full stack. Hoje, sigo evoluindo com cursos e projetos práticos, buscando estar cada vez mais preparado para o mercado. No tempo livre, gosto de assistir animes, praticar esportes, jogar e estar com família e amigos.
+      Olá, seja muito bem-vindo ao meu perfil!
+
+Sou Desenvolvedor Full Stack com mais de 3 anos de dedicação aos estudos e formação na área de tecnologia, tendo atuado profissionalmente como desenvolvedor e iniciado minha jornada com experiências práticas em manutenção e suporte técnico de TI.
+
+Minha paixão por tecnologia começou na infância, mas foi durante meu período no Exército Brasileiro que tive o primeiro contato com a programação. Lá, utilizei Python para criar scripts de automação que otimizavam processos internos do setor em que atuava. Essa experiência despertou em mim o desejo de me aprofundar no desenvolvimento de software.
+
+Após minha saída do Exército, iniciei meus estudos de forma autodidata, buscando cursos gratuitos e oportunidades de aprendizado prático. Em novembro de 2022, fui aprovado na Trybe, uma escola de programação focada em desenvolvimento web full stack, onde me formei em fevereiro de 2024 após uma formação intensiva com foco em prática, projetos reais e soft skills.
+
+Em julho de 2023, conquistei minha primeira oportunidade profissional como desenvolvedor, e desde então venho aprimorando minhas habilidades em tecnologias modernas, com destaque para:
+
+🧠 Fundamentos e Lógica de Programação: Shell, Git, HTML, CSS, JavaScript (ES6+), Testes Unitários
+🎨 Front-End: React, Redux, Context API, Testes com RTL, Metodologias Ágeis, Estilização Responsiva
+🛠️ Back-End: Node.js, Express, Docker, MySQL, TypeORM/ORM, JWT/Auth, POO e princípios SOLID
+📊 Ciência da Computação: Python, Estruturas de Dados, Algoritmos
+💬 Soft Skills: Comunicação, trabalho em equipe, resolução de problemas e autonomia
+
+Atualmente, estou em busca de novos desafios profissionais onde eu possa aplicar minhas competências em projetos inovadores e contribuir com soluções de impacto real.
+
+📫 Vamos conversar? Estou aberto a oportunidades de desenvolvimento Full Stack, Front-end, Back-end ou áreas correlatas.
   </p>
   
   <h2>🛠️ Habilidades</h2>
