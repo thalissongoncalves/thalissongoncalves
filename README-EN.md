@@ -69,6 +69,7 @@ Currently, I am looking for new professional challenges where I can apply my ski
 - 🛠️ [My Portfoly](https://thalisson-goncalves.vercel.app) — Personal projects and experiences.
 - 🧔 [Landing Page Pedro Acerbi | Freelance](https://pedro-acerbi-psychology.vercel.app/) — Technologies used: HTML | CSS | Bootstrap | JavaScript.
 - 👩‍💻 [Rick and Morty - Character consultation](https://tg-rick-and-morty.vercel.app/) — Technologies used: HTML | CSS | TypeScript | Angular.
+- 🥗 [City Street Fair Guide](https://city-street-fair-guide.vercel.app/) - Technologies used: React | CSS | TypeScript | Vite.
 
 ## 📊 GitHub Stats
 
