@@ -68,6 +68,7 @@ Atualmente, estou em busca de novos desafios profissionais onde eu possa aplicar
 - 🛠️ [Meu portfólio](https://thalisson-goncalves.vercel.app) — Projetos pessoais e experiências.
 - 🧔 [Landing Page Pedro Acerbi | Freelance](https://pedro-acerbi-psychology.vercel.app/) — Tecnologias utilizadas: HTML | CSS | Bootstrap | JavaScript.
 - 👩‍💻 [Rick and Morty - Consulta de Personagens](https://tg-rick-and-morty.vercel.app/) — Tecnologias utilizadas: HTML | CSS | TypeScript | Angular.
+- 🥗 [Guia de Feiras Livres da Cidade](https://city-street-fair-guide.vercel.app/) - Tecnologias utilizadas: React | CSS | TypeScript | Vite.
 
 ## 📊 GitHub Stats
 
