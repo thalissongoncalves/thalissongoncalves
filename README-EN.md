@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  I started my programming studies in July/2022 | I'm 23 years old | Junior Full Stack Developer
+  I started my programming studies in July/2022 | thalissongdev@gmail.com | Junior Full Stack Developer
 </p>
 
 <br/>
