@@ -50,7 +50,7 @@ Atualmente, estou em busca de novos desafios profissionais onde eu possa aplicar
 
   <p>
     Front-end: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwindcss" /></a>
   </p>
 
   <p>
