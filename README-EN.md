@@ -51,7 +51,7 @@ Currently, I am looking for new professional challenges where I can apply my ski
 
   <p>
     Front-end: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwindcss" /></a>
   </p>
 
   <p>
