@@ -45,7 +45,7 @@ Atualmente, estou em busca de novos desafios profissionais onde eu possa aplicar
 
   <p>
     Linguagens de Programação: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py,ts" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py,ts,java" /></a>
   </p>
 
   <p>
