@@ -69,6 +69,7 @@ Atualmente, estou em busca de novos desafios profissionais onde eu possa aplicar
 - 🧔 [Landing Page Pedro Acerbi | Freelance](https://pedro-acerbi-psychology.vercel.app/) — Tecnologias utilizadas: HTML | CSS | Bootstrap | JavaScript.
 - 🥗 [Guia de Feiras Livres da Cidade](https://city-street-fair-guide.vercel.app/) - Tecnologias utilizadas: HTML | CSS | React | TypeScript | Vite.
 - 💸 [Mini Controle Financeiro Pessoal](https://mini-personal-financial-control.vercel.app/) - Tecnologias utilizadas: HTML | CSS | React | TypeScript | Vite.
+- 🔗 [Meus links favoritos](https://meus-links-favoritos-vite-react-ts.vercel.app/) - Tecnologias utilizadas: React | TypeScript | Vite | TailwindCSS.
 
 ## 📊 GitHub Stats
 
