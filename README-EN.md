@@ -46,7 +46,7 @@ Currently, I am looking for new professional challenges where I can apply my ski
 
   <p>
     Programming Languages: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py,ts" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py,ts,java" /></a>
   </p>
 
   <p>
