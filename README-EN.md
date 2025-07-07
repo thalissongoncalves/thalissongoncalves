@@ -70,6 +70,7 @@ Currently, I am looking for new professional challenges where I can apply my ski
 - 🧔 [Landing Page Pedro Acerbi | Freelance](https://pedro-acerbi-psychology.vercel.app/) — Technologies used: HTML | CSS | Bootstrap | JavaScript.
 - 🥗 [City Street Fair Guide](https://city-street-fair-guide.vercel.app/) - Technologies used: HTML | CSS | React | TypeScript | Vite.
 - 💸 [Mini Personal Financial Control](https://mini-personal-financial-control.vercel.app/) - Technologies used: HTML | CSS | React | TypeScript | Vite.
+- 🔗 [My favorite links](https://meus-links-favoritos-vite-react-ts.vercel.app/) - Technologies used: React | TypeScript | Vite | TailwindCSS.
 
 ## 📊 GitHub Stats
 
