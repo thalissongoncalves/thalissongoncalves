@@ -22,7 +22,7 @@
   <p>
       Olá, seja muito bem-vindo ao meu perfil!
 
-Sou Desenvolvedor Backend Júnior com foco em Java e Spring Boot, formado na Trybe (Desenvolvimento Fullstack e Aceleração Java) e com mais de 3 anos dedicados à tecnologia. Atuei profissionalmente como desenvolvedor desde julho/2023, após experiência em manutenção/suporte TI e criação de scripts Python para automação no Exército Brasileiro.
+Sou Desenvolvedor Backend com foco em Java e Spring Boot, formado na Trybe (Desenvolvimento Fullstack e Aceleração Java) e com mais de 3 anos dedicados à tecnologia. Atuei profissionalmente como desenvolvedor desde julho/2023, após experiência em manutenção/suporte TI e criação de scripts Python para automação no Exército Brasileiro.
 
 Minha paixão por programação surgiu na infância e ganhou força no Exército, onde otimizei processos internos com Python. Após sair das Forças Armadas, estudei autodidata e fui aprovado na Trybe em novembro/2022, formando-me em fevereiro/2024 na formação full stack com ênfase em projetos reais, código limpo e soft skills.
 
