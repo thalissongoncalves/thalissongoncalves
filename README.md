@@ -22,23 +22,20 @@
   <p>
       Olá, seja muito bem-vindo ao meu perfil!
 
-Sou Desenvolvedor Full Stack com mais de 3 anos de dedicação aos estudos e formação na área de tecnologia, tendo atuado profissionalmente como desenvolvedor e iniciado minha jornada com experiências práticas em manutenção e suporte técnico de TI.
+Sou Desenvolvedor Backend Júnior com foco em Java e Spring Boot, formado na Trybe (Desenvolvimento Fullstack e Aceleração Java) e com mais de 3 anos dedicados à tecnologia. Atuei profissionalmente como desenvolvedor desde julho/2023, após experiência em manutenção/suporte TI e criação de scripts Python para automação no Exército Brasileiro.
 
-Minha paixão por tecnologia começou na infância, mas foi durante meu período no Exército Brasileiro que tive o primeiro contato com a programação. Lá, utilizei Python para criar scripts de automação que otimizavam processos internos do setor em que atuava. Essa experiência despertou em mim o desejo de me aprofundar no desenvolvimento de software.
+Minha paixão por programação surgiu na infância e ganhou força no Exército, onde otimizei processos internos com Python. Após sair das Forças Armadas, estudei autodidata e fui aprovado na Trybe em novembro/2022, formando-me em fevereiro/2024 na formação full stack com ênfase em projetos reais, código limpo e soft skills.
 
-Após minha saída do Exército, iniciei meus estudos de forma autodidata, buscando cursos gratuitos e oportunidades de aprendizado prático. Em novembro de 2022, fui aprovado na Trybe, uma escola de programação focada em desenvolvimento web full stack, onde me formei em fevereiro de 2024 após uma formação intensiva com foco em prática, projetos reais e soft skills.
+Hoje, especializo-me em backend robusto e escalável:
 
-Em julho de 2023, conquistei minha primeira oportunidade profissional como desenvolvedor, e desde então venho aprimorando minhas habilidades em tecnologias modernas, com destaque para:
+🛠️ Back-End Principal: Java, Spring Boot, APIs RESTful, JWT/Auth, SQL/MySQL/PostgreSQL, Docker, TypeORM/JPA, princípios SOLID e POO
+🧠 Fundamentos: Git, Testes Unitários (JUnit/RTL), Estruturas de Dados, Algoritmos, Shell
+🎨 Front-End Complementar: React, TypeScript, Redux/Context API, Bootstrap, Estilização Responsiva
+📊 Outras: Node.js/Express, Python
 
-🧠 Fundamentos e Lógica de Programação: Shell, Git, HTML, CSS, JavaScript (ES6+), Testes Unitários.<br/>
-🎨 Front-End: React, Redux, Context API, Testes com RTL, Metodologias Ágeis, Estilização Responsiva.<br/>
-🛠️ Back-End: Node.js, Express, Docker, MySQL, TypeORM/ORM, JWT/Auth, POO e princípios SOLID.<br/>
-📊 Ciência da Computação: Python, Estruturas de Dados, Algoritmos.<br/>
-💬 Soft Skills: Comunicação, trabalho em equipe, resolução de problemas e autonomia.<br/>
+Busco oportunidades remotas como dev backend (CLT ou PJ) em fintechs, e-commerces, consultorias ou times inovadores, onde possa entregar soluções de impacto, aprender e crescer em equipe.
 
-Atualmente, estou em busca de novos desafios profissionais onde eu possa aplicar minhas competências em projetos inovadores e contribuir com soluções de impacto real.
-
-📫 Vamos conversar? Estou aberto a oportunidades de desenvolvimento Full Stack, Front-end, Back-end ou áreas correlatas.
+📫 Vamos conversar? Aberto a fullstack, backend Java/Spring Boot ou front-end. Mande mensagem!
   </p>
   
   <h2>🛠️ Habilidades</h2>
