@@ -28,10 +28,10 @@ Minha paixão por programação surgiu na infância e ganhou força no Exército
 
 Hoje, especializo-me em backend robusto e escalável:
 
-🛠️ Back-End Principal: Java, Spring Boot, APIs RESTful, JWT/Auth, SQL/MySQL/PostgreSQL, Docker, TypeORM/JPA, princípios SOLID e POO
-🧠 Fundamentos: Git, Testes Unitários (JUnit/RTL), Estruturas de Dados, Algoritmos, Shell
-🎨 Front-End Complementar: React, TypeScript, Redux/Context API, Bootstrap, Estilização Responsiva
-📊 Outras: Node.js/Express, Python
+🛠️ Back-End Principal: Java, Spring Boot, APIs RESTful, JWT/Auth, SQL/MySQL/PostgreSQL, Docker, TypeORM/JPA, princípios SOLID e POO<br/>
+🧠 Fundamentos: Git, Testes Unitários (JUnit/RTL), Estruturas de Dados, Algoritmos, Shell<br/>
+🎨 Front-End Complementar: React, TypeScript, Redux/Context API, Bootstrap, Estilização Responsiva<br/>
+📊 Outras: Node.js/Express, Python<br/>
 
 Busco oportunidades remotas como dev backend (CLT ou PJ) em fintechs, e-commerces, consultorias ou times inovadores, onde possa entregar soluções de impacto, aprender e crescer em equipe.
 
