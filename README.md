@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  Iniciei meus estudos na programação em Julho/2022 | thalissongdev@gmail.com | Desenvolvedor Back End
+  Iniciei meus estudos na programação em Julho/2022 | thalissongdev@gmail.com | Desenvolvedor de Software
 </p>
 
 <br/>
