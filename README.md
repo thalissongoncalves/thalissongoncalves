@@ -20,22 +20,15 @@
 
   <h2>🔎 Sobre mim</h2>
   <p>
-      Olá, seja muito bem-vindo ao meu perfil!
+      Sou Software Developer com atuação Full Stack e foco principal em backend, construção de APIs e integrações entre sistemas.
 
-Sou Desenvolvedor Backend com foco em Java e Spring Boot, formado na Trybe (Desenvolvimento Fullstack e Aceleração Java) e com mais de 3 anos dedicados à tecnologia. Atuei profissionalmente como desenvolvedor desde julho/2023, após experiência em manutenção/suporte TI e criação de scripts Python para automação no Exército Brasileiro.
+Desenvolvo aplicações web completas utilizando Node.js e Spring Boot no backend e React no frontend, criando sistemas organizados, escaláveis e preparados para evolução.
 
-Minha paixão por programação surgiu na infância e ganhou força no Exército, onde otimizei processos internos com Python. Após sair das Forças Armadas, estudei autodidata e fui aprovado na Trybe em novembro/2022, formando-me em fevereiro/2024 na formação full stack com ênfase em projetos reais, código limpo e soft skills.
+Tenho experiência no desenvolvimento de APIs, modelagem de dados com PostgreSQL e MongoDB, além de automações e integrações entre serviços.
 
-Hoje, especializo-me em backend robusto e escalável:
+Trabalho priorizando arquitetura clara, código bem estruturado e soluções que realmente resolvem problemas do mundo real.
 
-🛠️ Back-End Principal: Java, Spring Boot, APIs RESTful, JWT/Auth, SQL/MySQL/PostgreSQL, Docker, TypeORM/JPA, princípios SOLID e POO<br/>
-🧠 Fundamentos: Git, Testes Unitários (JUnit/RTL), Estruturas de Dados, Algoritmos, Shell<br/>
-🎨 Front-End Complementar: React, TypeScript, Redux/Context API, Bootstrap, Estilização Responsiva<br/>
-📊 Outras: Node.js/Express, Python<br/>
-
-Busco oportunidades remotas como dev backend (CLT ou PJ) em fintechs, e-commerces, consultorias ou times inovadores, onde possa entregar soluções de impacto, aprender e crescer em equipe.
-
-📫 Vamos conversar? Aberto a fullstack, backend Java/Spring Boot ou front-end. Mande mensagem!
+Atualmente busco oportunidades como Full Stack Software Developer, contribuindo na construção de sistemas robustos, eficientes e bem estruturados.
   </p>
   
   <h2>🛠️ Habilidades</h2>
