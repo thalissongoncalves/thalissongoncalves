@@ -45,7 +45,7 @@ Atualmente busco oportunidades como Full Stack Software Developer, contribuindo 
 
   <p>
     Back-end: <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,mysql,npm,nodejs" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,mysql,npm,nodejs,spring,mongodb,postgresql" /></a>
   </p>
 
   <p>
